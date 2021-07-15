@@ -1,0 +1,2 @@
+# HTML
+Static html pages
